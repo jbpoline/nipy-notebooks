@@ -5,3 +5,7 @@
 *.tex
 *.pdf
 *_files/*
+egscans/*
+fperez-nipy-notebooks*
+voxdata.txt
+
